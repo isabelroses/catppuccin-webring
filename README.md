@@ -12,33 +12,9 @@
 </p>
 
 <p align="center">
-	<img src="assets/previews/preview.webp"/>
+	<img src="assets/preview.webp"/>
 </p>
 
-## Previews
-
-<details>
-<summary>🌻 Latte</summary>
-<img src="assets/previews/latte.webp"/>
-</details>
-<details>
-<summary>🪴 Frappé</summary>
-<img src="assets/previews/frappe.webp"/>
-</details>
-<details>
-<summary>🌺 Macchiato</summary>
-<img src="assets/previews/macchiato.webp"/>
-</details>
-<details>
-<summary>🌿 Mocha</summary>
-<img src="assets/previews/mocha.webp"/>
-</details>
-
-## Usage
-
-1. Go to...
-
-<!-- this section is optional -->
 ## 🙋 FAQ
 
 -	Q: **_"How can I join?"_**\
