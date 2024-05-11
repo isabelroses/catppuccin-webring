@@ -14,10 +14,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install Nix
-        uses: DeterminateSystems/nix-installer-action@main
+      - name: Install nix
+        uses: cachix/install-nix-action@master
         with:
-          logger: pretty
+          install_url: https://nixos.org/nix/install
+          extra_nix_config: |
+            experimental-features = nix-command flakes
+            allow-import-from-derivation = false
+            extra-substituters = https://isabelroses.cachix.org
+            extra-trusted-public-keys = isabelroses.cachix.org-1:mXdV/CMcPDaiTmkQ7/4+MzChpOe6Cb97njKmBQQmLPM=
 
       - name: Build
         run: nix run github:isabelroses/ringfairy
