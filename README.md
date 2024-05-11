@@ -36,10 +36,7 @@
 
 ## Usage
 
-1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
+1. Go to...
 
 <!-- this section is optional -->
 ## 🙋 FAQ
