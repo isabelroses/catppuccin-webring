@@ -1,0 +1,30 @@
+<!doctype html>
+
+<html lang="en">
+  <link rel="stylesheet" href="./styles.css" />
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Catppuccin Webring</title>
+  </head>
+  <body>
+    <h1>Ghostring List</h1>
+    Current list of the catppuccin webring members:
+
+    <br /><br />
+
+    {{ table_of_sites | safe}}
+
+    <br /><br />
+
+    <footer>
+      <small>
+        <p>Last updated: {{ current_time }}</p>
+        <p>
+          Powered by
+          <a href="https://github.com/k3rs3d/ringfairy">ringfairy</a>!
+        </p>
+      </small>
+    </footer>
+  </body>
+</html>

@@ -1,6 +1,8 @@
 {
   "filepath_list": "./websites.json",
   "path_output": "./dist",
+  "path_assets": "./data/assets",
+  "path_templates": "./data/templates",
   "base_url": "https://ctp-webr.ing",
   "audit": false,
   "shuffle": true,
