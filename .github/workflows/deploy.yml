@@ -1,0 +1,37 @@
+name: Deploy
+
+on:
+  push:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Build and deploy main
+    needs: generate
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Nix
+        uses: DeterminateSystems/nix-installer-action@main
+        with:
+          logger: pretty
+
+      - name: Build
+        run: nix run github:isabelroses/ringfairy
+
+      - name: Deploy to github pages
+        uses: JamesIves/github-pages-deploy-action@v4.5.0
+        with:
+          branch: gh-pages
+          folder: dist
+
+      - name: Publish deployed code
+        uses: actions/upload-artifact@v4
+        with:
+          name: published
+          path: dist
