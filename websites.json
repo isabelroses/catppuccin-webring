@@ -2,7 +2,13 @@
     {
         "name": "Isabel Roses",
         "slug": "isabelroses",
-        "url": "htts://isabelroses.com",
+        "url": "https://isabelroses.com",
         "owner": "me@isabelroses.com"
+    },
+    {
+        "name": "mudkip",
+        "slug": "mudkip",
+        "url": "https://mudkip.dev",
+        "owner": "mudkip@mudkip.dev"
     }
 ]
