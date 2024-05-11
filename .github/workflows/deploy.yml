@@ -9,8 +9,6 @@ permissions:
 
 jobs:
   build:
-    name: Build and deploy main
-    needs: generate
     runs-on: ubuntu-latest
 
     steps:
