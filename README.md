@@ -31,5 +31,5 @@ After that, add the webring HTML somewhere on your site, like the sidebar or foo
 Remember to replace "YOUR_SLUG" with your actual slug: 
 
 ```html
-<a href="https://ctp-webr.ing/YOUR_SLUG/previous"><-</a><a href="https://ctp-webr.ing/">Catppuccin webring</a><a href="https://ctp-webr.ing/YOUR_SLUG/next">-></a> 
+<a href="https://ctp-webr.ing/YOUR_SLUG/previous">&lt;-</a><a href="https://ctp-webr.ing/">Catppuccin webring</a><a href="https://ctp-webr.ing/YOUR_SLUG/next">&rarr;</a> 
 ```
