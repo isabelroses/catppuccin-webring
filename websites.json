@@ -10,5 +10,11 @@
         "slug": "mudkip",
         "url": "https://mudkip.dev",
         "owner": "mudkip@mudkip.dev"
+    },
+    {
+        "name": "zeffo",
+        "slug": "zeffo",
+        "url": "https://zeffo.me",
+        "owner": "aman@zeffo.me"
     }
 ]
