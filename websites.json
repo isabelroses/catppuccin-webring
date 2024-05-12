@@ -48,5 +48,11 @@
         "slug": "hpsaucii",
         "url": "https://hpsaucii.dev",
         "owner": "me@hpsaucii.dev"
+    },
+    {
+        "name": "spooky",
+        "slug": "spooky",
+        "url": "https://blog.spookyintheam.com",
+        "owner": "https://discord.com/users/680274737561206789"
     }
 ]
