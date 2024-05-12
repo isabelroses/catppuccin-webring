@@ -26,7 +26,6 @@ footer {
 footer {
 	gap: 0.25rem;
 }
-
 footer p {
 	margin: 0;
 }
@@ -35,4 +34,9 @@ footer p {
 	display: flex;
 	flex-direction: row;
 	gap: 2ch;
+}
+
+table {
+	width: fit-content;
+	align-self: center;
 }
