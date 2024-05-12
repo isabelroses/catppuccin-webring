@@ -1,32 +1,41 @@
 <!doctype html>
 
 <html lang="en">
-    <link rel="stylesheet" href="./styles.css" />
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Catppuccin Webring</title>
-    </head>
-    <body>
-        <h1>Catppuccin Webring List</h1>
-        List of Catppuccin webring members:
+  <link rel="stylesheet" href="./styles.css" />
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Catppuccin Webring</title>
+  </head>
+  <body>
+    <h1>Catppuccin Webring List</h1>
+    List of Catppuccin webring members:
 
-        <br /><br />
+    <br /><br />
 
-        {{ table_of_sites | safe}}
+    {{ table_of_sites | safe}}
 
-        <br /><br />
+    <br /><br />
 
-        <footer>
-            <small>
-                <p>Last updated: {{ current_time }}</p>
-                <p>This website is not officially affiliated with <a href="https://catppuccin.com/">catppuccin</a>.</p>
-                <p>Go this <a href="https://github.com/isabelroses/catppuccin-webring">this github </a> to add your site.</p>
-                <p>
-                    Powered by
-                    <a href="https://github.com/k3rs3d/ringfairy">ringfairy</a>!
-                </p>
-            </small>
-        </footer>
-    </body>
+    <footer>
+      <small>
+        <p>Last updated: {{ current_time }}</p>
+        <p>
+          This website is not officially affiliated with
+          <a href="https://catppuccin.com/">catppuccin</a>.
+        </p>
+        <p>
+          Go this
+          <a href="https://github.com/isabelroses/catppuccin-webring"
+            >this github
+          </a>
+          to add your site.
+        </p>
+        <p>
+          Powered by
+          <a href="https://github.com/k3rs3d/ringfairy">ringfairy</a>!
+        </p>
+      </small>
+    </footer>
+  </body>
 </html>
