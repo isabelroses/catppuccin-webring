@@ -42,5 +42,11 @@
         "about": "the pigeon zone",
         "url": "https://pigeon.life",
         "owner": "backwardspy@pigeon.life"
+    },
+    {
+        "name": "HPsaucii",
+        "slug": "hpsaucii",
+        "url": "https://hpsaucii.dev",
+        "owner": "me@hpsaucii.dev"
     }
 ]
