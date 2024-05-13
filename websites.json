@@ -61,5 +61,12 @@
       "about": "my own little corner of the internet",
       "url": "https://amy.is-a.dev/",
       "owner": "contact@amyerskine.me"
+    },
+    {
+      "name": "Swastik Baranwal",
+      "slug": "delta456",
+      "about": "portfolio website",
+      "url": "https://swastik.is-a.dev/",
+      "owner": "swstkbaranwal@gmail.com"
     }
 ]
