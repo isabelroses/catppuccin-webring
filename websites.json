@@ -54,5 +54,12 @@
         "slug": "spooky",
         "url": "https://blog.spookyintheam.com",
         "owner": "https://discord.com/users/680274737561206789"
+    },
+    {
+      "name": "amy",
+      "slug": "amy",
+      "about": "my own little corner of the internet",
+      "url": "https://amy.is-a.dev/",
+      "owner": "contact@amyerskine.me"
     }
 ]
