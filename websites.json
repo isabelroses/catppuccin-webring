@@ -68,5 +68,12 @@
       "about": "portfolio website",
       "url": "https://swastik.is-a.dev/",
       "owner": "swstkbaranwal@gmail.com"
+    },
+    {
+      "name": "duk",
+      "slug": "deimos",
+      "about": "interesting stuff of legend",
+      "url": "https://dukeatron.github.io/Dukeatron/",
+      "owner": "https://discord.com/users/688243502525579313"
     }
 ]
