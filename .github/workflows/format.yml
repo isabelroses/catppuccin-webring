@@ -17,6 +17,8 @@ jobs:
 
       - name: Format files
         uses: actionsx/prettier@v2
+        with:
+          args: . --write
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
