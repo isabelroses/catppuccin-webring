@@ -82,9 +82,17 @@
       "url": "https://uncenter.dev/"
     },
     {
-			"name": "alainacn",
-			"slug": "alainacn",
-			"url": "https://alainacn.dev",
-			"owner": "contact@alainacn.dev"
-		}
+	  "name": "alainacn",
+	  "slug": "alainacn",
+	  "url": "https://alainacn.dev",
+	  "owner": "contact@alainacn.dev"
+	},
+    {
+      "name": "aubrey", 
+      "slug": "aubreyrs",
+      "about": "silliest website...,.,,",
+      "url": "https://aubrey.rs",
+      "owner": "me@aubrey.rs"
+    }
 ]
+    
