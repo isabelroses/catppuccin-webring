@@ -93,5 +93,11 @@
         "about": "silliest website...,.,,",
         "url": "https://aubrey.rs",
         "owner": "me@aubrey.rs"
+    },
+    {
+        "name": "newt",
+        "slug": "newt",
+        "url": "https://newty.dev/",
+        "owner": "hi@newty.dev"
     }
 ]
