@@ -1,0 +1,27 @@
+name: Format
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  format:
+    name: Format
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Format files
+        uses: actionsx/prettier@v2
+        with:
+          args: . --write
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "style: format code with prettier"
+          default_author: github_actions

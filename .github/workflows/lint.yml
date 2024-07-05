@@ -1,0 +1,17 @@
+on: [push, pull_request]
+
+jobs:
+  lint:
+    name: JSON lint
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Lint
+        run: bash <(curl -s https://raw.githubusercontent.com/CICDToolbox/json-lint/master/pipeline.sh)
+        env:
+          REPORT_ONLY: true
+          SHOW_ERRORS: true
+          INCLUDE_FILES: websites.json

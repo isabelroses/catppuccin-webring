@@ -56,25 +56,49 @@
         "owner": "https://discord.com/users/680274737561206789"
     },
     {
-      "name": "amy",
-      "slug": "amy",
-      "about": "my own little corner of the internet",
-      "url": "https://amy.is-a.dev/",
-      "owner": "contact@amyerskine.me"
+        "name": "amy",
+        "slug": "amy",
+        "about": "my own little corner of the internet",
+        "url": "https://amy.is-a.dev/",
+        "owner": "contact@amyerskine.me"
     },
     {
-      "name": "Swastik Baranwal",
-      "slug": "delta456",
-      "about": "portfolio website",
-      "url": "https://swastik.is-a.dev/",
-      "owner": "swstkbaranwal@gmail.com"
+        "name": "Swastik Baranwal",
+        "slug": "delta456",
+        "about": "portfolio website",
+        "url": "https://swastik.is-a.dev/",
+        "owner": "swstkbaranwal@gmail.com"
     },
     {
-      "name": "duk",
-      "slug": "deimos",
-      "about": "interesting stuff of legend",
-      "url": "https://dukeatron.github.io/Dukeatron/",
-      "owner": "https://discord.com/users/688243502525579313"
+        "name": "duk",
+        "slug": "deimos",
+        "about": "interesting stuff of legend",
+        "url": "https://dukeatron.github.io/Dukeatron/",
+        "owner": "https://discord.com/users/688243502525579313"
+    },
+    {
+        "name": "uncenter",
+        "slug": "uncenter",
+        "url": "https://uncenter.dev/"
+    },
+    {
+        "name": "alainacn",
+        "slug": "alainacn",
+        "url": "https://alainacn.dev",
+        "owner": "contact@alainacn.dev"
+    },
+    {
+        "name": "aubrey",
+        "slug": "aubreyrs",
+        "about": "silliest website...,.,,",
+        "url": "https://aubrey.rs",
+        "owner": "me@aubrey.rs"
+    },
+    {
+        "name": "newt",
+        "slug": "newt",
+        "url": "https://newty.dev/",
+        "owner": "hi@newty.dev"
     },
     {
       "name": "Name",
