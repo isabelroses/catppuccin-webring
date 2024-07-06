@@ -106,5 +106,12 @@
         "about": "I do things I find cool and talk about it",
         "url": "https://garfunkles.space",
         "owner": "https://github.com/NamesCode"
+    },
+    {
+        "name": "lighttigerXIV",
+        "slug": "lighttigerxiv",
+        "about": "lighttigerXIV personal website",
+        "url": "https://lighttigerxiv.vercel.app/connect",
+        "owner": "https://github.com/lighttigerXIV"
     }
 ]
