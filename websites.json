@@ -99,5 +99,12 @@
         "slug": "newt",
         "url": "https://newty.dev/",
         "owner": "hi@newty.dev"
+    },
+    {
+        "name": "Name",
+        "slug": "garfunkles.space",
+        "about": "I do things I find cool and talk about it",
+        "url": "https://garfunkles.space",
+        "owner": "https://github.com/NamesCode"
     }
 ]
