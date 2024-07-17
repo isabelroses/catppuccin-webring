@@ -113,5 +113,12 @@
         "about": "lighttigerXIV personal website",
         "url": "https://lighttigerxiv.vercel.app/connect",
         "owner": "https://github.com/lighttigerXIV"
+    },
+     {
+        "name": "InvitedToHell",
+        "slug": "helly",
+        "about": "Helly's linktree and current activity",
+        "url": "https://helly.wtf",
+        "owner": "me@helly.wtf"
     }
 ]
