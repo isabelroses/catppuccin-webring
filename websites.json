@@ -115,18 +115,17 @@
         "owner": "https://github.com/lighttigerXIV"
     },
     {
-
         "name": "pontushenriksson",
         "slug": "pontushenriksson",
         "about": "Pontus Henriksson's personal portfolio website",
         "url": "https://pontushenriksson.com",
         "owner": "pontus@henriksson.space"
-},{
+    },
+    {
         "name": "InvitedToHell",
         "slug": "helly",
         "about": "Helly's linktree and current activity",
         "url": "https://helly.wtf",
         "owner": "me@helly.wtf"
-
     }
 ]
