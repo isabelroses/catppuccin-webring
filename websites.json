@@ -127,5 +127,12 @@
         "about": "Helly's linktree and current activity",
         "url": "https://helly.wtf",
         "owner": "me@helly.wtf"
+    },
+    {
+        "name": "tgt",
+        "slug": "tgt",
+        "about": "my little corner of the internet",
+        "url": "https://incognitotgt.me",
+        "owner": "tgt@incognitotgt.me"
     }
 ]
