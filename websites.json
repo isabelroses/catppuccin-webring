@@ -12,6 +12,7 @@
         "url": "https://isabelroses.com",
         "owner": "https://akko.isabelroses.com/isabel"
     },
+    
     {
         "name": "zeffo",
         "slug": "zeffo",
@@ -54,6 +55,13 @@
         "slug": "spooky",
         "url": "https://blog.spookyintheam.com",
         "owner": "https://discord.com/users/680274737561206789"
+    },
+    {
+        "name": "Neon",
+        "slug": "neon",
+        "url": "https://saahild.com",
+        "owner": "neon@saahild.com",
+        "about": "my site"
     },
     {
         "name": "amy",
