@@ -1,138 +1,146 @@
 [
-    {
-        "name": "catppuccin",
-        "slug": "catppuccin",
-        "about": "The home of all operations",
-        "url": "https://ctp-webr.ing",
-        "owner": "https://ctp-webr.ing"
-    },
-    {
-        "name": "Isabel Roses",
-        "slug": "isabelroses",
-        "url": "https://isabelroses.com",
-        "owner": "https://akko.isabelroses.com/isabel"
-    },
-    {
-        "name": "zeffo",
-        "slug": "zeffo",
-        "url": "https://zeffo.me",
-        "owner": "aman@zeffo.me"
-    },
-    {
-        "name": "Gen Shibe",
-        "slug": "genshibe",
-        "url": "https://genshibe.ca",
-        "owner": "genshibe@gmail.com"
-    },
-    {
-        "name": "Tnixc",
-        "slug": "tnixc",
-        "url": "https://tnixc.space",
-        "owner": "tnixxc@gmail.com"
-    },
-    {
-        "name": "refact0r",
-        "slug": "refact0r",
-        "url": "https://refact0r.dev/about",
-        "owner": "refact0r.contact@gmail.com"
-    },
-    {
-        "name": "backwardspy",
-        "slug": "backwardspy",
-        "about": "the pigeon zone",
-        "url": "https://pigeon.life",
-        "owner": "aWhqcmRoeWt6d2YoaGEpd3BubHZ1KGt2YSlzcG1s"
-    },
-    {
-        "name": "HPsaucii",
-        "slug": "hpsaucii",
-        "url": "https://hpsaucii.dev",
-        "owner": "me@hpsaucii.dev"
-    },
-    {
-        "name": "spooky",
-        "slug": "spooky",
-        "url": "https://blog.spookyintheam.com",
-        "owner": "https://discord.com/users/680274737561206789"
-    },
-    {
-        "name": "amy",
-        "slug": "amy",
-        "about": "my own little corner of the internet",
-        "url": "https://amy.is-a.dev/",
-        "owner": "contact@amyerskine.me"
-    },
-    {
-        "name": "Swastik Baranwal",
-        "slug": "delta456",
-        "about": "portfolio website",
-        "url": "https://swastik.is-a.dev/",
-        "owner": "swstkbaranwal@gmail.com"
-    },
-    {
-        "name": "duk",
-        "slug": "deimos",
-        "about": "interesting stuff of legend",
-        "url": "https://dukeatron.github.io/Dukeatron/",
-        "owner": "https://discord.com/users/688243502525579313"
-    },
-    {
-        "name": "uncenter",
-        "slug": "uncenter",
-        "url": "https://uncenter.dev/"
-    },
-    {
-        "name": "alainacn",
-        "slug": "alainacn",
-        "url": "https://alainacn.dev",
-        "owner": "contact@alainacn.dev"
-    },
-    {
-        "name": "aubrey",
-        "slug": "aubreyrs",
-        "about": "silliest website...,.,,",
-        "url": "https://aubrey.rs",
-        "owner": "me@aubrey.rs"
-    },
-    {
-        "name": "newt",
-        "slug": "newt",
-        "url": "https://newty.dev/",
-        "owner": "hi@newty.dev"
-    },
-    {
-        "name": "Name",
-        "slug": "garfunkles.space",
-        "about": "I do things I find cool and talk about it",
-        "url": "https://garfunkles.space",
-        "owner": "https://github.com/NamesCode"
-    },
-    {
-        "name": "lighttigerXIV",
-        "slug": "lighttigerxiv",
-        "about": "lighttigerXIV personal website",
-        "url": "https://lighttigerxiv.vercel.app/connect",
-        "owner": "https://github.com/lighttigerXIV"
-    },
-    {
-        "name": "pontushenriksson",
-        "slug": "pontushenriksson",
-        "about": "Pontus Henriksson's personal portfolio website",
-        "url": "https://pontushenriksson.com",
-        "owner": "pontus@henriksson.space"
-    },
-    {
-        "name": "InvitedToHell",
-        "slug": "helly",
-        "about": "Helly's linktree and current activity",
-        "url": "https://helly.wtf",
-        "owner": "me@helly.wtf"
-    },
-    {
-        "name": "tgt",
-        "slug": "tgt",
-        "about": "my little corner of the internet",
-        "url": "https://incognitotgt.me",
-        "owner": "tgt@incognitotgt.me"
-    }
+  {
+    "name": "catppuccin",
+    "slug": "catppuccin",
+    "about": "The home of all operations",
+    "url": "https://ctp-webr.ing",
+    "owner": "https://ctp-webr.ing"
+  },
+  {
+    "name": "Isabel Roses",
+    "slug": "isabelroses",
+    "url": "https://isabelroses.com",
+    "owner": "https://akko.isabelroses.com/isabel"
+  },
+
+  {
+    "name": "zeffo",
+    "slug": "zeffo",
+    "url": "https://zeffo.me",
+    "owner": "aman@zeffo.me"
+  },
+  {
+    "name": "Gen Shibe",
+    "slug": "genshibe",
+    "url": "https://genshibe.ca",
+    "owner": "genshibe@gmail.com"
+  },
+  {
+    "name": "Tnixc",
+    "slug": "tnixc",
+    "url": "https://tnixc.space",
+    "owner": "tnixxc@gmail.com"
+  },
+  {
+    "name": "refact0r",
+    "slug": "refact0r",
+    "url": "https://refact0r.dev/about",
+    "owner": "refact0r.contact@gmail.com"
+  },
+  {
+    "name": "backwardspy",
+    "slug": "backwardspy",
+    "about": "the pigeon zone",
+    "url": "https://pigeon.life",
+    "owner": "aWhqcmRoeWt6d2YoaGEpd3BubHZ1KGt2YSlzcG1s"
+  },
+  {
+    "name": "HPsaucii",
+    "slug": "hpsaucii",
+    "url": "https://hpsaucii.dev",
+    "owner": "me@hpsaucii.dev"
+  },
+  {
+    "name": "spooky",
+    "slug": "spooky",
+    "url": "https://blog.spookyintheam.com",
+    "owner": "https://discord.com/users/680274737561206789"
+  },
+  {
+    "name": "Neon",
+    "slug": "neon",
+    "url": "https://saahild.com",
+    "owner": "neon@saahild.com",
+    "about": "my site"
+  },
+  {
+    "name": "amy",
+    "slug": "amy",
+    "about": "my own little corner of the internet",
+    "url": "https://amy.is-a.dev/",
+    "owner": "contact@amyerskine.me"
+  },
+  {
+    "name": "Swastik Baranwal",
+    "slug": "delta456",
+    "about": "portfolio website",
+    "url": "https://swastik.is-a.dev/",
+    "owner": "swstkbaranwal@gmail.com"
+  },
+  {
+    "name": "duk",
+    "slug": "deimos",
+    "about": "interesting stuff of legend",
+    "url": "https://dukeatron.github.io/Dukeatron/",
+    "owner": "https://discord.com/users/688243502525579313"
+  },
+  {
+    "name": "uncenter",
+    "slug": "uncenter",
+    "url": "https://uncenter.dev/"
+  },
+  {
+    "name": "alainacn",
+    "slug": "alainacn",
+    "url": "https://alainacn.dev",
+    "owner": "contact@alainacn.dev"
+  },
+  {
+    "name": "aubrey",
+    "slug": "aubreyrs",
+    "about": "silliest website...,.,,",
+    "url": "https://aubrey.rs",
+    "owner": "me@aubrey.rs"
+  },
+  {
+    "name": "newt",
+    "slug": "newt",
+    "url": "https://newty.dev/",
+    "owner": "hi@newty.dev"
+  },
+  {
+    "name": "Name",
+    "slug": "garfunkles.space",
+    "about": "I do things I find cool and talk about it",
+    "url": "https://garfunkles.space",
+    "owner": "https://github.com/NamesCode"
+  },
+  {
+    "name": "lighttigerXIV",
+    "slug": "lighttigerxiv",
+    "about": "lighttigerXIV personal website",
+    "url": "https://lighttigerxiv.vercel.app/connect",
+    "owner": "https://github.com/lighttigerXIV"
+  },
+  {
+    "name": "pontushenriksson",
+    "slug": "pontushenriksson",
+    "about": "Pontus Henriksson's personal portfolio website",
+    "url": "https://pontushenriksson.com",
+    "owner": "pontus@henriksson.space"
+  },
+  {
+    "name": "InvitedToHell",
+    "slug": "helly",
+    "about": "Helly's linktree and current activity",
+    "url": "https://helly.wtf",
+    "owner": "me@helly.wtf"
+  },
+  {
+    "name": "tgt",
+    "slug": "tgt",
+    "about": "my little corner of the internet",
+    "url": "https://incognitotgt.me",
+    "owner": "tgt@incognitotgt.me"
+  }
 ]
