@@ -149,5 +149,12 @@
         "about": "JoubaMety's notes about FFmpeg, content creation & other stuff",
         "url": "https://notes.joubamety.com",
         "owner": "https://joubamety.com/"
+    },
+    {
+        "name": "a pretty good unblocking thing",
+        "slug": "pab",
+        "about": "includes incognito mode",
+        "url": "https://peopleagainstbarbers.netlify.app",
+        "owner": "jeffery@tornatore.com"
     }
 ]
