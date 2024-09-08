@@ -142,5 +142,12 @@
         "about": "my little corner of the internet",
         "url": "https://incognitotgt.me",
         "owner": "tgt@incognitotgt.me"
+    },
+    {
+        "name": "JoubaMety's Notes",
+        "slug": "notes.joubamety.com",
+        "about": "JoubaMety's notes about FFmpeg, content creation & other stuff",
+        "url": "https://notes.joubamety.com",
+        "owner": "https://joubamety.com/"
     }
 ]
