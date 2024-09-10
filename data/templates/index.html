@@ -1,36 +1,172 @@
 <!DOCTYPE html>
 <html lang="en">
-    <link rel="stylesheet" href="./styles.css" />
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>The Catppuccin Webring</title>
-    </head>
-    <body>
-        <header>
-            <h1>Welcome to the Catppuccin Webring!</h1>
-            <div class="links">
-                [<a href="/catppuccin/previous/">&larr; Previous</a>
-                <a href="/catppuccin/next/">Next &rarr;</a>]
-            </div>
-        </header>
-        {{ table_of_sites | safe }}
-        <footer>
-            <p>Last updated at {{ current_time }}.</p>
-            <p>
-                This webring is not officially affiliated with
-                <a href="https://catppuccin.com/">Catppuccin</a>.
-            </p>
-            <p>
-                Find us on
-                <a href="https://github.com/isabelroses/catppuccin-webring"
-                    >GitHub</a
-                >.
-            </p>
-            <p>
-                Powered by
-                <a href="https://github.com/k3rs3d/ringfairy">ringfairy</a>!
-            </p>
-        </footer>
-    </body>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Catppuccin Webring</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            padding: 1rem;
+            background-color: #24273a;
+            color: #cad3f5;
+            font-family: Arial, sans-serif;
+        }
+
+        a {
+            color: #8aadf4;
+        }
+
+        a:visited {
+            color: #b7bdf8;
+        }
+
+        header,
+        footer {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        footer {
+            gap: 0.25rem;
+        }
+
+        footer p {
+            margin: 0;
+        }
+
+        .links {
+            display: flex;
+            flex-direction: row;
+            gap: 2ch;
+        }
+
+        .links a {
+            color: #8aadf4;
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+        .links a:hover {
+            color: #00FF00;
+        }
+
+        .site-list {
+            width: 100%;
+            max-width: 1200px;
+            margin: auto;
+        }
+
+        .site-item {
+            background: #333;
+            border-radius: 8px;
+            padding: 1rem;
+            margin-bottom: 1rem;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+
+        .site-item a {
+            color: #8aadf4;
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+        .site-item a:hover {
+            color: #00FF00;
+        }
+
+        .site-item p {
+            margin: 0.5rem 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to the Catppuccin Webring!</h1>
+        <div class="links">
+            <a href="/catppuccin/previous/">← Previous</a>
+            <a href="/catppuccin/next/">Next →</a>
+        </div>
+    </header>
+    <div id="site-list" class="site-list"></div>
+    <footer>
+        <p>Last updated at <span id="current-time"></span>.</p>
+        <p>
+            This webring is not officially affiliated with
+            <a href="https://catppuccin.com/">Catppuccin</a>.
+        </p>
+        <p>
+            Find us on
+            <a href="https://github.com/isabelroses/catppuccin-webring">GitHub</a>.
+        </p>
+        <p>
+            Powered by
+            <a href="https://github.com/k3rs3d/ringfairy">ringfairy</a>!
+        </p>
+    </footer>
+
+    <script>
+        const websites = [
+            { "name": "catppuccin", "slug": "catppuccin", "about": "The home of all operations", "url": "https://ctp-webr.ing", "owner": "https://ctp-webr.ing" },
+            { "name": "Isabel Roses", "slug": "isabelroses", "url": "https://isabelroses.com", "owner": "https://akko.isabelroses.com/isabel" },
+            { "name": "zeffo", "slug": "zeffo", "url": "https://zeffo.me", "owner": "aman@zeffo.me" },
+            { "name": "Gen Shibe", "slug": "genshibe", "url": "https://genshibe.ca", "owner": "genshibe@gmail.com" },
+            { "name": "Tnixc", "slug": "tnixc", "url": "https://tnixc.space", "owner": "tnixxc@gmail.com" },
+            { "name": "refact0r", "slug": "refact0r", "url": "https://refact0r.dev/about", "owner": "refact0r.contact@gmail.com" },
+            { "name": "backwardspy", "slug": "backwardspy", "about": "the pigeon zone", "url": "https://pigeon.life", "owner": "aWhqcmRoeWt6d2YoaGEpd3BubHZ1KGt2YSlzcG1s" },
+            { "name": "HPsaucii", "slug": "hpsaucii", "url": "https://hpsaucii.dev", "owner": "me@hpsaucii.dev" },
+            { "name": "spooky", "slug": "spooky", "url": "https://blog.spookyintheam.com", "owner": "https://discord.com/users/680274737561206789" },
+            { "name": "Neon", "slug": "neon", "url": "https://saahild.com", "owner": "neon@saahild.com", "about": "my site" },
+            { "name": "amy", "slug": "amy", "about": "my own little corner of the internet", "url": "https://amy.is-a.dev/", "owner": "contact@amyerskine.me" },
+            { "name": "Swastik Baranwal", "slug": "delta456", "about": "portfolio website", "url": "https://swastik.is-a.dev/", "owner": "swstkbaranwal@gmail.com" },
+            { "name": "duk", "slug": "deimos", "about": "interesting stuff of legend", "url": "https://dukeatron.github.io/Dukeatron/", "owner": "https://discord.com/users/688243502525579313" },
+            { "name": "uncenter", "slug": "uncenter", "url": "https://uncenter.dev/" },
+            { "name": "alainacn", "slug": "alainacn", "url": "https://alainacn.dev", "owner": "contact@alainacn.dev" },
+            { "name": "aubrey", "slug": "aubreyrs", "about": "silliest website...,.,,","url": "https://aubrey.rs", "owner": "me@aubrey.rs" },
+            { "name": "newt", "slug": "newt", "url": "https://newty.dev/", "owner": "hi@newty.dev" },
+            { "name": "Name", "slug": "garfunkles.space", "about": "I do things I find cool and talk about it", "url": "https://garfunkles.space", "owner": "https://github.com/NamesCode" },
+            { "name": "lighttigerXIV", "slug": "lighttigerxiv", "about": "lighttigerXIV personal website", "url": "https://lighttigerxiv.vercel.app/connect", "owner": "https://github.com/lighttigerXIV" },
+            { "name": "pontushenriksson", "slug": "pontushenriksson", "about": "Pontus Henriksson's personal portfolio website", "url": "https://pontushenriksson.com", "owner": "pontus@henriksson.space" },
+            { "name": "InvitedToHell", "slug": "helly", "about": "Helly's linktree and current activity", "url": "https://helly.wtf", "owner": "me@helly.wtf" },
+            { "name": "tgt", "slug": "tgt", "about": "my little corner of the internet", "url": "https://incognitotgt.me", "owner": "tgt@incognitotgt.me" },
+            { "name": "JoubaMety's Notes", "slug": "notes.joubamety.com", "about": "JoubaMety's notes about FFmpeg, content creation & other stuff", "url": "https://notes.joubamety.com", "owner": "https://joubamety.com/" },
+            { "name": "a pretty good unblocking thing", "slug": "pab", "about": "includes incognito mode", "url": "https://peopleagainstbarbers.netlify.app", "owner": "jeffery@tornatore.com" }
+        ];
+
+        function formatDate() {
+            const now = new Date();
+            return now.toLocaleString();
+        }
+
+        function populateSiteList() {
+            const siteList = document.getElementById('site-list');
+            websites.forEach(site => {
+                const siteItem = document.createElement('div');
+                siteItem.classList.add('site-item');
+
+                siteItem.innerHTML = `
+                    <h2><a href="${site.url}" target="_blank">${site.name}</a></h2>
+                    ${site.about ? `<p>${site.about}</p>` : ''}
+                    ${site.owner ? `<p><strong>Owner:</strong> <a href="${site.owner}" target="_blank">${site.owner}</a></p>` : ''}
+                `;
+
+                siteList.appendChild(siteItem);
+            });
+        }
+
+        function updateTime() {
+            document.getElementById('current-time').textContent = formatDate();
+        }
+
+        window.onload = function() {
+            populateSiteList();
+            updateTime();
+        };
+    </script>
+</body>
 </html>
