@@ -156,5 +156,12 @@
         "about": "im super cool trust",
         "url": "https://h4lo.ca",
         "owner": "admin@h4lo.ca"
+    },
+    {
+      "name": "lighttigerXIV",
+      "slug": "lighttigerxiv",
+      "about": "lighttigerXIV personal website",
+      "url": "https://lighttigerxiv.dev/",
+      "owner": "https://github.com/lighttigerxiv"
     }
 ]
