@@ -168,5 +168,23 @@
         "slug": "no0ne",
         "url": "https://no0ne.vercel.app/",
         "owner": "https://github.com/No0ne003"
+    },
+    {
+        "name": "rare1k's website",
+        "slug": "rare1k",
+        "url": "https://rare1k.dev",
+        "owner": "https://gitlab.com/uhidontkno"
+    },
+    {
+        "name": "Artemis",
+        "slug": "artemis",
+        "url": "https://artemis-bot.com",
+        "owner": "https://gitlab.com/uhidontkno"
+    },
+    {
+        "name": "Free South Park",
+        "slug": "southpark",
+        "url": "https://freesouthpark.live",
+        "owner": "https://gitlab.com/uhidontkno"
     }
 ]
