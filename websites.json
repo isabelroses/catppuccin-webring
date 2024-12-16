@@ -170,5 +170,12 @@
         "slug": "no0ne",
         "url": "https://no0ne.vercel.app/",
         "owner": "https://github.com/No0ne003"
+    },
+    {
+        "name": "trinkey",
+        "slug": "trinkey",
+        "about": "the person who made some userstyles",
+        "url": "https://trinkey.com",
+        "owner": "https://github.com/trinkey"
     }
 ]
