@@ -177,5 +177,12 @@
         "about": "the person who made some userstyles",
         "url": "https://trinkey.com",
         "owner": "https://github.com/trinkey"
+    },
+    {
+        "name": "Duanin2's website",
+        "slug": "duanin2",
+        "url": "https://duanin2.top/links.html",
+        "rss": "https://duanin2.top/feed.rss",
+        "owner": "duanin2@duanin2.top"
     }
 ]
