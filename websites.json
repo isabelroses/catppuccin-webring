@@ -193,11 +193,11 @@
         "owner": "duanin2@duanin2.top"
     },
     {
-      "name": "PerseusLynx",
-      "slug": "perseus",
-      "about": "A cozy website",
-      "url": "https://perseuslynx.dev",
-      "rss": "https://perseuslynx.dev/feed/blog.xml",
-      "owner": "perseuslyx333@gmail.com"
+        "name": "PerseusLynx",
+        "slug": "perseus",
+        "about": "A cozy website",
+        "url": "https://perseuslynx.dev",
+        "rss": "https://perseuslynx.dev/feed/blog.xml",
+        "owner": "perseuslyx333@gmail.com"
     }
 ]
