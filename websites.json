@@ -191,5 +191,13 @@
         "url": "https://duanin2.top/links.html",
         "rss": "https://duanin2.top/feed.rss",
         "owner": "duanin2@duanin2.top"
+    },
+    {
+      "name": "PerseusLynx",
+      "slug": "perseus",
+      "about": "A cozy website",
+      "url": "https://perseuslynx.dev",
+      "rss": "https://perseuslynx.dev/feed/blog.xml",
+      "owner": "perseuslyx333@gmail.com"
     }
 ]
