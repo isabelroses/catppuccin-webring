@@ -199,5 +199,11 @@
         "url": "https://perseuslynx.dev",
         "rss": "https://perseuslynx.dev/feed/blog.xml",
         "owner": "perseuslyx333@gmail.com"
+    },
+    {
+        "name": "Terminaate",
+        "slug": "terminaate",
+        "url": "https://terminaate.vercel.app",
+        "owner": "terminaatecorp@gmail.com"
     }
 ]
