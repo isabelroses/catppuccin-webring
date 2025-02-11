@@ -205,5 +205,11 @@
         "slug": "terminaate",
         "url": "https://terminaate.vercel.app",
         "owner": "terminaatecorp@gmail.com"
+    },
+    {
+        "name": "ixhby",
+        "slug": "ixhby",
+        "url": "https://garnix.dev",
+        "owner": "contact@ixhby.dev"
     }
 ]
