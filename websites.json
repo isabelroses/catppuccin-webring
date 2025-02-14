@@ -213,11 +213,11 @@
         "owner": "contact@ixhby.dev"
     },
     {
-      "name": "bricked",
-      "slug": "bricked",
-      "about": "My personal website and blog.",
-      "url": "https://bricked.dev",
-      "rss": "https://bricked.dev/blog/rss.xml",
-      "owner": "hello@bricked.dev"
+        "name": "bricked",
+        "slug": "bricked",
+        "about": "My personal website and blog.",
+        "url": "https://bricked.dev",
+        "rss": "https://bricked.dev/blog/rss.xml",
+        "owner": "hello@bricked.dev"
     }
 ]
