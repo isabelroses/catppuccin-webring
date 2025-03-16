@@ -1,0 +1,22 @@
+base_url = "https://ctp-webr.ing"
+ring_name = "Catppuccin Webring"
+ring_description = "A webring for all Catppuccin fans!"
+ring_owner = "Isabel Roses"
+ring_owner_site = "https://isabelroses.com"
+
+filepath_list = "./websites.json"
+path_output = "./dist"
+path_assets = "./data/assets"
+path_templates = "./data/templates"
+filename_template_redirect = "template.html"
+
+client_user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+client_header = "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+audit_retries_delay = 100
+audit_retries_max = 2
+
+shuffle = true
+verbose = false
+skip_minify = false
+skip_verify = false
+dry_run = false
