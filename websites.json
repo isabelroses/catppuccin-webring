@@ -251,5 +251,12 @@
         "about": "noololly's lil slice of the interwebs",
         "url": "https://noololly.studio",
         "owner": "od@stephan.co.uk"
+    },
+    {
+        "name": "Jan's website",
+        "slug": "JanUwU42",
+        "about": "Jan's personal website & linktree",
+        "url": "https://jan-osing.de",
+        "owner": "mail@jan-osing.de"
     }
 ]
