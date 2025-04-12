@@ -24,7 +24,7 @@ jobs:
           args: --verbose --no-progress ./websites.json
 
       - name: Create Issue From File
-        if: github.event_name != 'pull_request'
+        if: steps.lychee.outputs.exit_code != 0 && github.event_name != 'pull_request'
         uses: peter-evans/create-issue-from-file@v5
         with:
           title: Link Checker Report
