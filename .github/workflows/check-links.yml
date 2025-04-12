@@ -2,7 +2,7 @@ name: Links Validation
 
 on:
   schedule:
-    - cron: '0 0 * * 1,4'  # Runs at 00:00 UTC on Mondays and Thursdays
+    - cron: "0 0 * * 1,4" # Runs at 00:00 UTC on Mondays and Thursdays
   workflow_dispatch:
   pull_request:
 
@@ -29,4 +29,3 @@ jobs:
         with:
           title: Link Checker Report
           content-filepath: ./lychee/out.md
-
