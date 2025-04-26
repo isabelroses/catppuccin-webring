@@ -229,12 +229,11 @@
         "rss": "https://skyfall.dev/rss.xml",
         "owner": "hi@skyfall.dev"
     },
-
     {
         "name": "dish site",
         "slug": "dish",
         "about": "dish's webbed site",
-        "url": "https://pyrox.dev/",
+        "url": "https://pyrox.dev/about",
         "rss": "https://pyrox.dev/blog.rss",
         "owner": "pyrox[at]pyrox.dev"
     },
