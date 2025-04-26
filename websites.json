@@ -251,5 +251,12 @@
         "about": "Jan's personal website & linktree",
         "url": "https://jan-osing.de",
         "owner": "mail@jan-osing.de"
+    },
+    {
+        "name": "Chamal1120's website",
+        "slug": "Chamal1120",
+        "about": "Chamal1120's personal website",
+        "url": "https://chamal1120.is-a.dev",
+        "owner": "kenway213beep@gmail.com"
     }
 ]
