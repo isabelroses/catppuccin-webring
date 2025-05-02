@@ -257,5 +257,13 @@
         "about": "Chamal1120's personal website",
         "url": "https://chamal1120.is-a.dev",
         "owner": "kenway213beep@gmail.com"
+    },
+    {
+        "name": "Zachary Kai",
+        "slug": "zacharykai",
+        "about": "Hi! I'm an avowed generalist, writer, and offbeat queer.",
+        "url": "https://zacharykai.net/",
+        "rss": "https://zacharykai.net/assets/rss.xml",
+        "owner": "hi@zacharykai.net"
     }
 ]
