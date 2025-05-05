@@ -265,5 +265,12 @@
         "url": "https://zacharykai.net/",
         "rss": "https://zacharykai.net/assets/rss.xml",
         "owner": "hi@zacharykai.net"
+    },
+    {
+        "name": "April",
+        "slug": "april",
+        "about": "Reverse Engineering, Hardware Research, April's Personal Blog",
+        "url": "https://aprilrain77.com",
+        "owner": "april@aprilrain77.com"
     }
 ]
