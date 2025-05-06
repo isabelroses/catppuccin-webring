@@ -272,5 +272,12 @@
         "about": "Reverse Engineering, Hardware Research, April's Personal Blog",
         "url": "https://aprilrain77.com",
         "owner": "april@aprilrain77.com"
+    },
+    {
+        "name": "Kieran Klukas"
+        "slug": "dunkirk",
+        "about": "Hiiii! I mainly write about stuff that annoys me or occasionally if I remember to a project I've made",
+        "url": "https://dunkirk.sh",
+        "owner": "me@dunkirk.sh"
     }
 ]
