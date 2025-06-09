@@ -19,9 +19,7 @@ jobs:
           logger: pretty
 
       - name: Build
-        run: |
-          nix develop --accept-flake-config
-          ringfairy
+        run: nix develop --accept-flake-config --command "ringfairy"
 
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v3
