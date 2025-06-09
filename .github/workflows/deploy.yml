@@ -20,7 +20,7 @@ jobs:
 
       - name: Build
         run: |
-          nix develop
+          nix develop --accept-flake-config
           ringfairy
 
       - name: Upload Pages Artifact
