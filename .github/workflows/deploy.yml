@@ -19,7 +19,9 @@ jobs:
           logger: pretty
 
       - name: Build
-        run: nix run nixpkgs#ringfairy
+        run: |
+          nix develop
+          ringfairy
 
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v3

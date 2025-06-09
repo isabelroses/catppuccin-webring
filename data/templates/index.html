@@ -9,12 +9,18 @@
     <body>
         <header>
             <h1>Welcome to the Catppuccin Webring!</h1>
-            <div class="links">
-                [<a href="/catppuccin/previous/">&larr; Previous</a>
-                <a href="/catppuccin/next/">Next &rarr;</a>]
-            </div>
         </header>
-        {{ table_of_sites | safe }}
+
+        <main>
+            <a href="/rand">Enter the webring</a>
+
+            <ul>
+                {% for site in sites %}
+                    <li><a class="member-link" href="{{ site.website.url | safe }}">{{ site.website.name }}</a></li>
+                {% endfor %}
+            </ul>
+        </main>
+
         <footer>
             <p>Last updated at {{ current_time }}.</p>
             <p>
