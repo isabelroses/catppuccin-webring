@@ -279,5 +279,12 @@
         "about": "Hiiii! I mainly write about stuff that annoys me or occasionally if I remember to a project I've made",
         "url": "https://dunkirk.sh",
         "owner": "me@dunkirk.sh"
+    },
+        {
+        "name": "Jason Cameron",
+        "slug": "json",
+        "about": "My site! Stuff gets put here sometimes",
+        "url": "https://jsn.cam",
+        "owner": "hi@jsn.cam"
     }
 ]
