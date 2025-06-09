@@ -1,10 +1,10 @@
 <script>
-const siteLinks = [
-  {% for site in sites %}
-    "{{ site.website.url | safe }}"{% if loop.last == false %},{% endif %}
-  {% endfor %}
-];
+    const siteLinks = [
+      {% for site in sites %}
+        "{{ site.website.url | safe }}"{% if loop.last == false %},{% endif %}
+      {% endfor %}
+    ];
 
-const randomIndex = Math.floor(Math.random() * siteLinks.length);
-window.location.href = siteLinks[randomIndex];
+    const randomIndex = Math.floor(Math.random() * siteLinks.length);
+    window.location.href = siteLinks[randomIndex];
 </script>

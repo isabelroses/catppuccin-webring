@@ -16,7 +16,11 @@
 
             <ul>
                 {% for site in sites %}
-                    <li><a class="member-link" href="{{ site.website.url | safe }}">{{ site.website.name }}</a></li>
+                <li>
+                    <a class="member-link" href="{{ site.website.url | safe }}"
+                        >{{ site.website.name }}</a
+                    >
+                </li>
                 {% endfor %}
             </ul>
         </main>
