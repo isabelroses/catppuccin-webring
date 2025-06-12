@@ -279,5 +279,12 @@
         "about": "My site! Stuff gets put here sometimes",
         "url": "https://jsn.cam",
         "owner": "hi@jsn.cam"
+    },
+    {
+        "name": "Mooncell07",
+        "slug": "nova",
+        "about": "Personal site for learning web dev",
+        "url": "https://mooncell07.me",
+        "owner": "arcindex@proton.me"
     }
 ]
