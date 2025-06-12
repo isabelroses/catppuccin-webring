@@ -286,5 +286,12 @@
         "about": "my personal website and residence :3",
         "url": "https://junyali.github.io",
         "owner": "cuties-only@kafka.moe"
+    },
+    {
+        "name": "Mooncell07",
+        "slug": "nova",
+        "about": "Personal site for learning web dev",
+        "url": "https://mooncell07.me",
+        "owner": "arcindex@proton.me"
     }
 ]
