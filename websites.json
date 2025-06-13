@@ -279,5 +279,12 @@
         "about": "My site! Stuff gets put here sometimes",
         "url": "https://jsn.cam",
         "owner": "hi@jsn.cam"
+    },
+    {
+        "name": "Alok Ranjan",
+        "slug": "ryu",
+        "about": "backend = tranquility",
+        "url": "https://blogs.alokranjan.me",
+        "owner": "ryulore@proton.me"
     }
 ]
