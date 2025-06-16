@@ -300,5 +300,12 @@
         "about": "Personal site for learning web dev",
         "url": "https://mooncell07.me",
         "owner": "arcindex@proton.me"
+    },
+    {
+        "name": "Spelis",
+        "slug": "spelis",
+        "about": "fuckass website where i do random shit",
+        "url": "https://spelis.r.mrharryw.dev",
+        "owner": "Spelis@duck.com"
     }
 ]
