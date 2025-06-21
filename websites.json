@@ -146,13 +146,6 @@
         "owner": "https://joubamety.com/"
     },
     {
-        "name": "a pretty good unblocking thing",
-        "slug": "pab",
-        "about": "includes incognito mode",
-        "url": "https://peopleagainstbarbers.netlify.app",
-        "owner": "jeffery@tornatore.com"
-    },
-    {
         "name": "H4LO",
         "slug": "h4lo",
         "about": "im super cool trust",
@@ -190,7 +183,7 @@
         "name": "PerseusLynx",
         "slug": "perseus",
         "about": "A cozy website",
-        "url": "https://perseuslynx.dev",
+        "url": "https://perseuslynx.dev/about",
         "rss": "https://perseuslynx.dev/feed/blog.xml",
         "owner": "perseuslyx333@gmail.com"
     },
@@ -220,14 +213,6 @@
         "about": "My personal developer portfolio and site.",
         "url": "https://mealman1551.github.io",
         "owner": "https://github.com/Mealman1551"
-    },
-    {
-        "name": "Mahad's website",
-        "slug": "skyfall",
-        "about": "Mahad Kalam (@skyfall)'s personal website. I ramble about Rust, TypeScript, web dev, and more!",
-        "url": "https://skyfall.dev/",
-        "rss": "https://skyfall.dev/rss.xml",
-        "owner": "hi@skyfall.dev"
     },
     {
         "name": "dish site",
