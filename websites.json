@@ -125,6 +125,13 @@
         "owner": "helly@pompomsoft.de"
     },
     {
+        "name": "unseen;ninja",
+        "slug": "unseen-ninja",
+        "about": "»[…] just a regular everyday normal guy« working on design and code thingies.",
+        "url": "https://unseen.ninja",
+        "owner": "lemon@unseen.ninja"
+    },
+    {
         "name": "tgt",
         "slug": "tgt",
         "about": "tgt's personal portfoilo and bio",
