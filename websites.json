@@ -299,5 +299,11 @@
         "about": "personal portfolio website of theme Ubuntu 20.04 made using Next.js & tailwind CSS :)",
         "url": "https://mansiruhil.vercel.app/",
         "owner": "mansiruhil99@gmail.com"
+    },
+    {
+        "name": "Vollow",
+        "slug": "vollow",
+        "url": "https://vollow.vercel.app/",
+        "owner": "vollowx@outlook.com"
     }
 ]
