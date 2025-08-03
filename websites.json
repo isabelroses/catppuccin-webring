@@ -305,5 +305,12 @@
         "slug": "vollow",
         "url": "https://vollow.vercel.app/",
         "owner": "vollowx@outlook.com"
+    },
+    {
+    	"name": "eunoia",
+    	"slug": "eunoia",
+    	"about": "the scattered fragment of a sentimental memory is eunoia",
+    	"url": "https://eunoia.sayitditto.net/",
+    	"owner": "witnesslachesis@disroot.org"
     }
 ]
