@@ -312,5 +312,12 @@
         "about": "the scattered fragment of a sentimental memory is eunoia",
         "url": "https://eunoia.sayitditto.net/",
         "owner": "witnesslachesis@disroot.org"
+    },
+    {
+        "name": "cri",
+        "slug": "cri.cl",
+        "about": "personal blog",
+        "url": "https://cri.cl/",
+        "owner": "cri@disroot.org"
     }
 ]
