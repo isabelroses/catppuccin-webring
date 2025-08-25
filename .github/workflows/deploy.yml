@@ -22,7 +22,7 @@ jobs:
         run: nix develop --accept-flake-config --command "ringfairy"
 
       - name: Upload Pages Artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: "dist"
 
