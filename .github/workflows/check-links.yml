@@ -21,7 +21,7 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           fail: false
-          args: --verbose --no-progress ./websites.json
+          args: --base --verbose --no-progress ./websites.json
 
       - name: Create Issue From File
         if: steps.lychee.outputs.exit_code != 0 && github.event_name != 'pull_request'
