@@ -319,5 +319,13 @@
         "about": "personal blog",
         "url": "https://cri.cl/",
         "owner": "cri@disroot.org"
+    },
+    {
+        "name": "Helen Chong",
+        "slug": "helenchong",
+        "about": "Developer portfolio and blog of a graphic designer turned web developer from Malaysia.",
+        "url": "https://helenchong.dev/",
+        "rss": "https://helenchong.dev/blog/feed.xml",
+        "owner": "contact@helenchong.dev"
     }
 ]
