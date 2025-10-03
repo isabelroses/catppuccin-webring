@@ -327,5 +327,12 @@
         "url": "https://helenchong.dev/",
         "rss": "https://helenchong.dev/blog/feed.xml",
         "owner": "contact@helenchong.dev"
+    },
+        {
+        "name": "Solomon Adzape",
+        "slug": "solenoid",
+        "about": "tiny home on the internet for a lifelong student turned developer and general nerd",
+        "url": "https://solenoid.me/",
+        "owner": "contact@solenoid.me"
     }
 ]
