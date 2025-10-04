@@ -334,5 +334,11 @@
         "about": "tiny home on the internet for a lifelong student turned developer and general nerd",
         "url": "https://solenoid.me/about",
         "owner": "contact@solenoid.me"
+    },
+    {
+        "name": "Felix Schneider",
+        "slug": "trueberryless",
+        "about": "my corner of the internet",
+        "url": "https://trueberryless.org"
     }
 ]
