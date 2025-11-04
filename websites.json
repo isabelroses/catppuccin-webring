@@ -340,5 +340,12 @@
         "slug": "trueberryless",
         "about": "my corner of the internet",
         "url": "https://trueberryless.org"
+    },
+    {
+        "name": "adam perkowski",
+        "slug": "adamperkowski",
+        "about": "my personal website :3",
+        "url": "https://adamperkowski.dev",
+        "owner": "me@adamperkowski.dev"
     }
 ]
