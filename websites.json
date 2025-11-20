@@ -353,5 +353,12 @@
         "slug": "trafficlunar",
         "url": "https://trafficlunar.net",
         "owner": "hello@trafficlunar.net"
+    },
+    {
+        "name": "coding corner",
+        "slug": "codingcorner",
+        "about": "Kyle's corner of the internet",
+        "url": "https://codingcorner.dev/",
+        "owner": "kyle@codingcorner.dev"
     }
 ]
