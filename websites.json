@@ -360,5 +360,11 @@
         "about": "Kyle's corner of the internet",
         "url": "https://codingcorner.dev/",
         "owner": "kyle@codingcorner.dev"
+    },
+    {
+        "name": "Ingo Wolf",
+        "slug": "ingo",
+        "url": "https://ingo.au/",
+        "owner": "me@ingo.au"
     }
 ]
