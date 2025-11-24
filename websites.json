@@ -53,8 +53,9 @@
     {
         "name": "spooky",
         "slug": "spooky",
-        "url": "https://blog.spookyintheam.com",
-        "owner": "https://discord.com/users/680274737561206789"
+        "url": "https://me.spookyintheam.com",
+        "owner": "https://discord.com/users/680274737561206789",
+        "about": "A part of my mind in a little corner of the internet"
     },
     {
         "name": "Neon",
