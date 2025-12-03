@@ -105,13 +105,6 @@
         "owner": "hi@newty.dev"
     },
     {
-        "name": "Name",
-        "slug": "garfunkles.space",
-        "about": "I do things I find cool and talk about it",
-        "url": "https://garfunkles.space",
-        "owner": "https://github.com/NamesCode"
-    },
-    {
         "name": "pontushenriksson",
         "slug": "pontushenriksson",
         "about": "Pontus Henriksson's personal portfolio website",
