@@ -45,12 +45,6 @@
         "owner": "aWhqcmRoeWt6d2YoaGEpd3BubHZ1KGt2YSlzcG1s"
     },
     {
-        "name": "HPsaucii",
-        "slug": "hpsaucii",
-        "url": "https://hpsaucii.dev",
-        "owner": "me@hpsaucii.dev"
-    },
-    {
         "name": "spooky",
         "slug": "spooky",
         "url": "https://me.spookyintheam.com",
@@ -63,13 +57,6 @@
         "url": "https://saahild.com/buttons",
         "owner": "neon@saahild.com",
         "about": "my site"
-    },
-    {
-        "name": "amy",
-        "slug": "amy",
-        "about": "my own little corner of the internet",
-        "url": "https://amy.is-a.dev/",
-        "owner": "contact@amyerskine.me"
     },
     {
         "name": "Swastik Baranwal",
@@ -103,13 +90,6 @@
         "url": "https://newty.dev/",
         "rss": "https://newty.dev/rss.xml",
         "owner": "hi@newty.dev"
-    },
-    {
-        "name": "pontushenriksson",
-        "slug": "pontushenriksson",
-        "about": "Pontus Henriksson's personal portfolio website",
-        "url": "https://pontushenriksson.com",
-        "owner": "pontus@henriksson.space"
     },
     {
         "name": "InvitedToHell",
@@ -158,13 +138,6 @@
         "slug": "nuexq",
         "url": "https://nuexq.net/",
         "owner": "https://github.com/nuexq"
-    },
-    {
-        "name": "Duanin2's website",
-        "slug": "duanin2",
-        "url": "https://duanin2.top/links.html",
-        "rss": "https://duanin2.top/feed.rss",
-        "owner": "duanin2@duanin2.top"
     },
     {
         "name": "PerseusLynx",
@@ -237,13 +210,6 @@
         "url": "https://zacharykai.net/",
         "rss": "https://zacharykai.net/assets/rss.xml",
         "owner": "hi@zacharykai.net"
-    },
-    {
-        "name": "April",
-        "slug": "april",
-        "about": "12 cats, women & computers.",
-        "url": "https://aprl.cat",
-        "owner": "april@aprl.cat"
     },
     {
         "name": "Kieran Klukas",
