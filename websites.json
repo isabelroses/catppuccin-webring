@@ -326,12 +326,12 @@
         "slug": "ingo",
         "url": "https://ingo.au/",
         "owner": "me@ingo.au"
-},
-{
-  "name": "Castawhat",
-  "slug": "castawhat",
-  "about": "Josh made a website and  made it catppucchin",
-  "url": "https://site.slitrostudio.me/",
-  "owner": "josh@slitrostudio.me"
-}
+    },
+    {
+        "name": "Castawhat",
+        "slug": "castawhat",
+        "about": "Josh made a website and  made it catppucchin",
+        "url": "https://site.slitrostudio.me/",
+        "owner": "josh@slitrostudio.me"
+    }
 ]
