@@ -333,5 +333,12 @@
         "about": "Josh made a website and  made it catppucchin",
         "url": "https://site.slitrostudio.me/",
         "owner": "josh@slitrostudio.me"
+    },
+    {
+        "name": "razv",
+        "slug": "razv",
+        "about": "It's a website!",
+        "url": "https://razv.xyz",
+        "owner": "razv@razv.xyz"
     }
 ]
