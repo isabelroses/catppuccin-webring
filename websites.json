@@ -340,5 +340,12 @@
         "about": "It's a website!",
         "url": "https://razv.xyz",
         "owner": "razv@razv.xyz"
+    },
+    {
+        "name": "Lexy",
+        "slug": "lex",
+        "about": "Lexy's little part of the internet",
+        "url": "https://personal.apcoding.com.au",
+        "owner": "hello@apcoding.com.au"
     }
 ]
