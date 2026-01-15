@@ -347,5 +347,12 @@
         "about": "Lexy's little part of the internet",
         "url": "https://personal.apcoding.com.au",
         "owner": "hello@apcoding.com.au"
+    },
+    {
+        "name": "Dwait Pandhi",
+        "slug": "dwait",
+        "about": "My side of the world wide web.",
+        "url": "https://dwait.dev",
+        "owner": "me@dwait.dev"
     }
 ]
