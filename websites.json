@@ -361,5 +361,12 @@
         "about": "My side of the world wide web.",
         "url": "https://dwait.dev",
         "owner": "me@dwait.dev"
+    },
+    {
+        "name": "Achira Nadeeshan",
+        "slug": "AchiraNadeeshan",
+        "about": "Portfolio Yo!",
+        "url": "https://achira.is-a.dev/",
+        "owner": "hrachiranadeeshan@gmail.com"
     }
 ]
