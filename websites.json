@@ -368,5 +368,12 @@
         "about": "Portfolio Yo!",
         "url": "https://achira.is-a.dev/",
         "owner": "hrachiranadeeshan@gmail.com"
+    },
+    {
+        "name": "olifurz",
+        "slug": "olifurz",
+        "about": "gay ramblings & experiments by a gay programmer",
+        "url": "https://olifurz.com/",
+        "owner": "oli@olifurz.com"
     }
 ]
