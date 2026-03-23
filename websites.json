@@ -362,5 +362,13 @@
         "about": "gay ramblings & experiments by a gay programmer",
         "url": "https://olifurz.com/",
         "owner": "oli@olifurz.com"
+    },
+    {
+        "name": "Alex Kammin"
+        "slug": "alexkammin"
+        "about": "Huge nerd. Trying to balance web performance with unnecessary typography and some whimsy"
+        "url": "https://alexkammin.com"
+        "rss": "https://alexkammin.com/atom.xml",
+        "owner": "alexkammin@proton.me"
     }
 ]
