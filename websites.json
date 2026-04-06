@@ -370,5 +370,13 @@
         "url": "https://alexkammin.com",
         "rss": "https://alexkammin.com/atom.xml",
         "owner": "alexkammin@proton.me"
+    },
+    {
+        "name": "Mikkel ALMONTE--RINGAUD",
+        "slug": "vexcited",
+        "about": "vexcited's corner of the internet. learn new things with me in my garden.",
+        "url": "https://vexcited.com",
+        "rss": "https://vexcited.com/rss.xml",
+        "owner": "contact@vexcited.com"
     }
 ]
