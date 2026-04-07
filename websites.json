@@ -378,5 +378,11 @@
         "url": "https://vexcited.com",
         "rss": "https://vexcited.com/rss.xml",
         "owner": "contact@vexcited.com"
+    },
+    {
+        "name": "lozinka",
+        "slug": "lozinka",
+        "about": "i made a website and catppuccinated it :3",
+        "url": "https://refoldingcrystal.github.io"
     }
 ]
