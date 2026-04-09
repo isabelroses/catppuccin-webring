@@ -384,5 +384,12 @@
         "slug": "lozinka",
         "about": "i made a website and catppuccinated it :3",
         "url": "https://refoldingcrystal.github.io"
+    },
+    {
+        "name": "Lair",
+        "slug": "lair",
+        "about": "My web-technologies playground with some self-hosted services",
+        "url": "https://lair.moe",
+        "owner": "risdeveau@lair.moe"
     }
 ]
