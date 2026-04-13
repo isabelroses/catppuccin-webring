@@ -398,5 +398,13 @@
         "about": "My web-technologies playground with some self-hosted services",
         "url": "https://lair.moe",
         "owner": "risdeveau@lair.moe"
+    },
+    {
+      "name": "ErrorCode0",
+      "slug": "errorcodezero",
+      "about": "ErrorCode0's Personal Website",
+      "url": "https://errorcodezero.dev",
+      "rss": "https://errorcodezero.dev/rss.xml",
+      "owner": "@errorcodezero@mas.to"
     }
 ]
