@@ -400,11 +400,11 @@
         "owner": "risdeveau@lair.moe"
     },
     {
-      "name": "ErrorCode0",
-      "slug": "errorcodezero",
-      "about": "ErrorCode0's Personal Website",
-      "url": "https://errorcodezero.dev",
-      "rss": "https://errorcodezero.dev/rss.xml",
-      "owner": "@errorcodezero@mas.to"
+        "name": "ErrorCode0",
+        "slug": "errorcodezero",
+        "about": "ErrorCode0's Personal Website",
+        "url": "https://errorcodezero.dev",
+        "rss": "https://errorcodezero.dev/rss.xml",
+        "owner": "@errorcodezero@mas.to"
     }
 ]
