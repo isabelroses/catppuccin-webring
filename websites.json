@@ -406,5 +406,12 @@
         "url": "https://errorcodezero.dev",
         "rss": "https://errorcodezero.dev/rss.xml",
         "owner": "@errorcodezero@mas.to"
+    },
+    {
+        "name": "kirjah",
+        "slug": "kirjah",
+        "about": "kirjah's website.",
+        "url": "https://kirjah.lol",
+        "owner": "kirjah.lol@gmail.com"
     }
 ]
