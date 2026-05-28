@@ -413,5 +413,12 @@
         "about": "kirjah's website.",
         "url": "https://kirjah.lol",
         "owner": "kirjah.lol@gmail.com"
+    },
+    {
+        "name": "lem.my",
+        "slug": "lem.my",
+        "about": "Personal website and portfolio.",
+        "url": "https://lem.my",
+        "owner": "hi@lem.my"
     }
 ]
