@@ -1,28 +1,30 @@
 {
   "nodes": {
-    "nixpkgs": {
+    "extersia": {
+      "inputs": {
+        "nixpkgs": "nixpkgs"
+      },
       "locked": {
-        "lastModified": 1749285348,
-        "narHash": "sha256-frdhQvPbmDYaScPFiCnfdh3B/Vh81Uuoo0w5TkWmmjU=",
-        "owner": "NixOS",
-        "repo": "nixpkgs",
-        "rev": "3e3afe5174c561dee0df6f2c2b2236990146329f",
+        "lastModified": 1779847539,
+        "narHash": "sha256-6RyJQKZTBFDjcCMdh29e7k61NUK2sL/l/wFq+P8mNKU=",
+        "owner": "extersia-org",
+        "repo": "pkgs",
+        "rev": "a5961c606ec3770facb2899768229c562c04f429",
         "type": "github"
       },
       "original": {
-        "owner": "NixOS",
-        "ref": "nixos-unstable",
-        "repo": "nixpkgs",
+        "owner": "extersia-org",
+        "repo": "pkgs",
         "type": "github"
       }
     },
-    "nixpkgs_2": {
+    "nixpkgs": {
       "locked": {
-        "lastModified": 315532800,
-        "narHash": "sha256-lvaKRckKFtUXIQTiK1e/0JnZRlEm/y0olZwbkl8ArrY=",
-        "rev": "08fcb0dcb59df0344652b38ea6326a2d8271baff",
+        "lastModified": 1779694939,
+        "narHash": "sha256-luOcHMj74mEbDfB9dbcvMlXUF/6oefoKI2xxyZAvyy0=",
+        "rev": "f9d8b65950353691ab56561e7c73d2e1063d810b",
         "type": "tarball",
-        "url": "https://releases.nixos.org/nixpkgs/nixpkgs-25.11pre812400.08fcb0dcb59d/nixexprs.tar.xz?rev=08fcb0dcb59df0344652b38ea6326a2d8271baff"
+        "url": "https://releases.nixos.org/nixpkgs/nixpkgs-26.11pre1004746.f9d8b6595035/nixexprs.tar.xz?lastModified=1779694939&rev=f9d8b65950353691ab56561e7c73d2e1063d810b"
       },
       "original": {
         "type": "tarball",
@@ -31,26 +33,11 @@
     },
     "root": {
       "inputs": {
-        "nixpkgs": "nixpkgs",
-        "tgirlpkgs": "tgirlpkgs"
-      }
-    },
-    "tgirlpkgs": {
-      "inputs": {
-        "nixpkgs": "nixpkgs_2"
-      },
-      "locked": {
-        "lastModified": 1749480872,
-        "narHash": "sha256-GgUlYAUprfe8aagQe+T05t8Tc79N1hS9TuG3WL7n4og=",
-        "owner": "tgirlcloud",
-        "repo": "pkgs",
-        "rev": "8ff0a36c68d75da77265466729706c1639409d52",
-        "type": "github"
-      },
-      "original": {
-        "owner": "tgirlcloud",
-        "repo": "pkgs",
-        "type": "github"
+        "extersia": "extersia",
+        "nixpkgs": [
+          "extersia",
+          "nixpkgs"
+        ]
       }
     }
   },

@@ -4,7 +4,7 @@ ring_description = "A webring for all Catppuccin fans!"
 ring_owner = "Isabel Roses"
 ring_owner_site = "https://isabelroses.com"
 
-filepath_list = "./websites.json"
+filepath_list = ["./websites.json"]
 path_output = "./dist"
 path_assets = "./data/assets"
 path_templates = "./data/templates"

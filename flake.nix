@@ -1,14 +1,14 @@
 {
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
-    tgirlpkgs.url = "github:tgirlcloud/pkgs";
+    nixpkgs.follows = "extersia/nixpkgs";
+    extersia.url = "github:extersia-org/pkgs";
   };
 
   outputs =
     {
       self,
       nixpkgs,
-      tgirlpkgs,
+      extersia,
     }:
     let
       forAllSystems =
@@ -21,7 +21,7 @@
       devShells = forAllSystems (pkgs: {
         default = pkgs.mkShellNoCC {
           packages = [
-            tgirlpkgs.packages.${pkgs.stdenv.hostPlatform.system}.ringfairy
+            extersia.packages.${pkgs.stdenv.hostPlatform.system}.ringfairy
             pkgs.simple-http-server
           ];
         };
@@ -29,7 +29,9 @@
     };
 
   nixConfig = {
-    extra-substituters = [ "https://cache.tgirl.cloud/tgirlcloud" ];
-    extra-trusted-public-keys = [ "tgirlcloud:vcV9oxS9pLXyeu1dVnBabLalLlw0yJzu6PakQM372t0=" ];
+    extra-substituters = [ "https://extersia.cachix.org" ];
+    extra-trusted-public-keys = [
+      "extersia.cachix.org-1:ZHy9765xrhn4lDKGTzWWykHC+B091oTqNxClgc78MQU="
+    ];
   };
 }
