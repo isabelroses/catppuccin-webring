@@ -421,4 +421,11 @@
         "url": "https://lem.my",
         "owner": "hi@lem.my"
     }
+    {
+      "name": "Chimera's Realm",
+      "slug": "chimera",
+      "about": "A pixel-art portfolio, inspired by jason cameron.",
+      "url": "https://chimera-realm.vercel.app/",
+      "owner": "https://github.com/Chimera418"
+    }
 ]
