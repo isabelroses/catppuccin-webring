@@ -427,5 +427,12 @@
         "about": "A pixel-art portfolio, inspired by jason cameron.",
         "url": "https://chimera-realm.vercel.app/",
         "owner": "https://github.com/Chimera418"
-    }
+    },
+    {
+        "name": "PGD Vault",
+        "slug": "Plant",
+        "about": "Blogging & Game Dev.",
+        "url": "https://mqzgdvault.forestry.md/",
+        "owner": "marquizd11@gmail.com"
+}
 ]
