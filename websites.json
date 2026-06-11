@@ -429,10 +429,10 @@
         "owner": "https://github.com/Chimera418"
     },
     {
-        "name": "PGD Vault",
+        "name": "Plant's Game Dev Vault",
         "slug": "Plant",
         "about": "Blogging & Game Dev.",
-        "url": "https://mqzgdvault.forestry.md/",
+        "url": "https://pgdvault.vercel.app/",
         "owner": "marquizd11@gmail.com"
     }
 ]
