@@ -1,23 +1,17 @@
 [
     {
-        "name": "catppuccin",
-        "slug": "catppuccin",
-        "about": "The home of all operations",
-        "url": "https://ctp-webr.ing",
-        "owner": "https://ctp-webr.ing"
-    },
-    {
-        "name": "Isabel Roses",
+        "name": "isabel roses",
         "slug": "isabelroses",
-        "url": "https://isabelroses.com",
+        "url": "https://isabelroses.com/friends",
+        "rss": "https://isabelroses.com/feed.xml",
         "owner": "https://akko.isabelroses.com/isabel"
     },
     {
-        "name": "robin roses",
+        "name": "robin",
         "slug": "comfysage",
-        "url": "https://robinroses.xyz/",
-        "rss": "https://robinroses.xyz/rss.xml",
-        "owner": "https://bsky.app/profile/comfysage.bsky.social"
+        "url": "https://robinwobin.dev/",
+        "rss": "https://robinwobin.dev/rss.xml",
+        "owner": "https://bsky.app/profile/robinwobin.dev"
     },
     {
         "name": "zeffo",
@@ -34,7 +28,7 @@
     {
         "name": "Tnixc",
         "slug": "tnixc",
-        "url": "https://tnixc.space",
+        "url": "https://enochlau.com",
         "owner": "tnixxc@gmail.com"
     },
     {
@@ -51,30 +45,18 @@
         "owner": "aWhqcmRoeWt6d2YoaGEpd3BubHZ1KGt2YSlzcG1s"
     },
     {
-        "name": "HPsaucii",
-        "slug": "hpsaucii",
-        "url": "https://hpsaucii.dev",
-        "owner": "me@hpsaucii.dev"
-    },
-    {
         "name": "spooky",
         "slug": "spooky",
-        "url": "https://blog.spookyintheam.com",
-        "owner": "https://discord.com/users/680274737561206789"
+        "url": "https://me.spookyintheam.com",
+        "owner": "https://discord.com/users/680274737561206789",
+        "about": "A part of my mind in a little corner of the internet"
     },
     {
         "name": "Neon",
         "slug": "neon",
-        "url": "https://saahild.com",
+        "url": "https://saahild.com/buttons",
         "owner": "neon@saahild.com",
         "about": "my site"
-    },
-    {
-        "name": "amy",
-        "slug": "amy",
-        "about": "my own little corner of the internet",
-        "url": "https://amy.is-a.dev/",
-        "owner": "contact@amyerskine.me"
     },
     {
         "name": "Swastik Baranwal",
@@ -102,13 +84,6 @@
         "owner": "contact@sydneyn.dev"
     },
     {
-        "name": "aubrey",
-        "slug": "aubreyrs",
-        "about": "silliest website...,.,,",
-        "url": "https://aubrey.rs",
-        "owner": "me@aubrey.rs"
-    },
-    {
         "name": "newt",
         "slug": "newt",
         "about": "i am newtybins . . .",
@@ -117,25 +92,18 @@
         "owner": "hi@newty.dev"
     },
     {
-        "name": "Name",
-        "slug": "garfunkles.space",
-        "about": "I do things I find cool and talk about it",
-        "url": "https://garfunkles.space",
-        "owner": "https://github.com/NamesCode"
-    },
-    {
-        "name": "pontushenriksson",
-        "slug": "pontushenriksson",
-        "about": "Pontus Henriksson's personal portfolio website",
-        "url": "https://pontushenriksson.com",
-        "owner": "pontus@henriksson.space"
-    },
-    {
         "name": "InvitedToHell",
         "slug": "helly",
         "about": "Helly's linktree and current activity",
         "url": "https://pompomsoft.de",
         "owner": "helly@pompomsoft.de"
+    },
+    {
+        "name": "unseen;ninja",
+        "slug": "unseen-ninja",
+        "about": "»[…] just a regular everyday normal guy« working on design and code thingies.",
+        "url": "https://unseen.ninja",
+        "owner": "lemon@unseen.ninja"
     },
     {
         "name": "tgt",
@@ -152,13 +120,6 @@
         "owner": "https://joubamety.com/"
     },
     {
-        "name": "a pretty good unblocking thing",
-        "slug": "pab",
-        "about": "includes incognito mode",
-        "url": "https://peopleagainstbarbers.netlify.app",
-        "owner": "jeffery@tornatore.com"
-    },
-    {
         "name": "H4LO",
         "slug": "h4lo",
         "about": "im super cool trust",
@@ -169,36 +130,29 @@
         "name": "lighttigerXIV",
         "slug": "lighttigerxiv",
         "about": "lighttigerXIV personal website",
-        "url": "https://lighttigerxiv.dev/",
+        "url": "https://afonseca.dev/",
         "owner": "https://github.com/lighttigerxiv"
     },
     {
         "name": "nuexq",
         "slug": "nuexq",
-        "url": "https://nuexq.vercel.app/",
+        "url": "https://nuexq.net/",
         "owner": "https://github.com/nuexq"
-    },
-    {
-        "name": "trinkey",
-        "slug": "trinkey",
-        "about": "the person who made some userstyles",
-        "url": "https://trinkey.com",
-        "owner": "https://github.com/trinkey"
-    },
-    {
-        "name": "Duanin2's website",
-        "slug": "duanin2",
-        "url": "https://duanin2.top/links.html",
-        "rss": "https://duanin2.top/feed.rss",
-        "owner": "duanin2@duanin2.top"
     },
     {
         "name": "PerseusLynx",
         "slug": "perseus",
         "about": "A cozy website",
-        "url": "https://perseuslynx.dev",
+        "url": "https://perseuslynx.dev/about",
         "rss": "https://perseuslynx.dev/feed/blog.xml",
         "owner": "perseuslyx333@gmail.com"
+    },
+    {
+        "name": "devtochukwu",
+        "slug": "devtochukwu",
+        "about": "A frontend developer with many other skills",
+        "url": "https://devtochukwu.me",
+        "owner": "ntmark2004@gmail.com"
     },
     {
         "name": "Terminaate",
@@ -219,5 +173,266 @@
         "url": "https://bricked.dev",
         "rss": "https://bricked.dev/blog/rss.xml",
         "owner": "hello@bricked.dev"
+    },
+    {
+        "name": "Mealman1551",
+        "slug": "Mealman1551",
+        "about": "My personal developer portfolio and site.",
+        "url": "https://mealman1551.github.io",
+        "owner": "https://github.com/Mealman1551"
+    },
+    {
+        "name": "dish site",
+        "slug": "dish",
+        "about": "dish's webbed site",
+        "url": "https://pyrox.dev/about",
+        "rss": "https://pyrox.dev/blog.rss",
+        "owner": "pyrox[at]pyrox.dev"
+    },
+    {
+        "name": "noololly <3",
+        "slug": "noololly",
+        "about": "noololly's lil slice of the interwebs",
+        "url": "https://noololly.uk",
+        "owner": "od@stephan.co.uk"
+    },
+    {
+        "name": "Jan's website",
+        "slug": "JanUwU42",
+        "about": "Jan's personal website & linktree",
+        "url": "https://jan-osing.de",
+        "owner": "mail@jan-osing.de"
+    },
+    {
+        "name": "Chamal1120's website",
+        "slug": "Chamal1120",
+        "about": "Chamal1120's personal website",
+        "url": "https://chamal1120.is-a.dev",
+        "owner": "kenway213beep@gmail.com"
+    },
+    {
+        "name": "Zachary Kai",
+        "slug": "zacharykai",
+        "about": "Hi! I'm an avowed generalist, writer, and offbeat queer.",
+        "url": "https://zacharykai.net/",
+        "rss": "https://zacharykai.net/assets/rss.xml",
+        "owner": "hi@zacharykai.net"
+    },
+    {
+        "name": "Kieran Klukas",
+        "slug": "dunkirk",
+        "about": "Hiiii! I mainly write about stuff that annoys me or occasionally if I remember to a project I've made",
+        "url": "https://dunkirk.sh",
+        "owner": "me@dunkirk.sh"
+    },
+    {
+        "name": "Jason Cameron",
+        "slug": "json",
+        "about": "My site! Stuff gets put here sometimes",
+        "url": "https://jsn.cam",
+        "owner": "hi@jsn.cam"
+    },
+    {
+        "name": "Alok Ranjan",
+        "slug": "ryu",
+        "about": "backend = tranquility",
+        "url": "https://blogs.alokranjan.me",
+        "owner": "ryulore@proton.me"
+    },
+    {
+        "name": "junya",
+        "slug": "junya",
+        "about": "my personal website and residence :3",
+        "url": "https://junyali.github.io",
+        "owner": "cuties-only@kafka.moe"
+    },
+    {
+        "name": "Mooncell07",
+        "slug": "nova",
+        "about": "Personal site for learning web dev",
+        "url": "https://mooncell07.me",
+        "owner": "mooncell07@proton.me"
+    },
+    {
+        "name": "Spelis",
+        "slug": "spelis",
+        "about": "fuckass website where i do random shit",
+        "url": "https://spelis.projnull.eu",
+        "owner": "Spelis@duck.com"
+    },
+    {
+        "name": "eunoia",
+        "slug": "eunoia",
+        "about": "the scattered fragment of a sentimental memory is eunoia",
+        "url": "https://eunoia.sayitditto.net/",
+        "owner": "witnesslachesis@disroot.org"
+    },
+    {
+        "name": "cri",
+        "slug": "cri.cl",
+        "about": "personal blog",
+        "url": "https://cri.cl/",
+        "owner": "cri@disroot.org"
+    },
+    {
+        "name": "Helen Chong",
+        "slug": "helenchong",
+        "about": "Developer portfolio and blog of a graphic designer turned web developer from Malaysia.",
+        "url": "https://helenchong.dev/",
+        "rss": "https://helenchong.dev/blog/feed.xml",
+        "owner": "contact@helenchong.dev"
+    },
+    {
+        "name": "Solomon Adzape",
+        "slug": "solenoid",
+        "about": "tiny home on the internet for a lifelong student turned developer and general nerd",
+        "url": "https://solenoid.me/about",
+        "owner": "contact@solenoid.me"
+    },
+    {
+        "name": "Felix Schneider",
+        "slug": "trueberryless",
+        "about": "my corner of the internet",
+        "url": "https://trueberryless.org"
+    },
+    {
+        "name": "koi",
+        "slug": "koi",
+        "about": "my personal website :3",
+        "url": "https://koi.rip",
+        "owner": "me@koi.rip"
+    },
+    {
+        "name": "trafficlunar",
+        "slug": "trafficlunar",
+        "url": "https://trafficlunar.net",
+        "owner": "hello@trafficlunar.net"
+    },
+    {
+        "name": "coding corner",
+        "slug": "codingcorner",
+        "about": "Kyle's corner of the internet",
+        "url": "https://codingcorner.dev/",
+        "owner": "kyle@codingcorner.dev"
+    },
+    {
+        "name": "Ingo Wolf",
+        "slug": "ingo",
+        "url": "https://ingo.au/",
+        "owner": "me@ingo.au"
+    },
+    {
+        "name": "Castawhat",
+        "slug": "castawhat",
+        "about": "Josh made a website and  made it catppucchin",
+        "url": "https://site.slitrostudio.me/",
+        "owner": "josh@slitrostudio.me"
+    },
+    {
+        "name": "razv",
+        "slug": "razv",
+        "about": "It's a website!",
+        "url": "https://razv.xyz",
+        "owner": "razv@razv.xyz"
+    },
+    {
+        "name": "Lexy",
+        "slug": "lex",
+        "about": "Lexy's little part of the internet",
+        "url": "https://personal.apcoding.com.au",
+        "owner": "hello@apcoding.com.au"
+    },
+    {
+        "name": "Dwait Pandhi",
+        "slug": "dwait",
+        "about": "My side of the world wide web.",
+        "url": "https://dwait.dev",
+        "owner": "me@dwait.dev"
+    },
+    {
+        "name": "Achira Nadeeshan",
+        "slug": "AchiraNadeeshan",
+        "about": "Portfolio Yo!",
+        "url": "https://achira.is-a.dev/",
+        "owner": "hrachiranadeeshan@gmail.com"
+    },
+    {
+        "name": "olifurz",
+        "slug": "olifurz",
+        "about": "gay ramblings & experiments by a gay programmer",
+        "url": "https://olifurz.com/",
+        "owner": "oli@olifurz.com"
+    },
+    {
+        "name": "Alex Kammin",
+        "slug": "alexkammin",
+        "about": "Huge nerd. Trying to balance web performance with unnecessary typography and some whimsy",
+        "url": "https://alexkammin.com",
+        "rss": "https://alexkammin.com/atom.xml",
+        "owner": "alexkammin@proton.me"
+    },
+    {
+        "name": "Mikkel ALMONTE--RINGAUD",
+        "slug": "vexcited",
+        "about": "vexcited's corner of the internet. learn new things with me in my garden.",
+        "url": "https://vexcited.com",
+        "rss": "https://vexcited.com/rss.xml",
+        "owner": "contact@vexcited.com"
+    },
+    {
+        "name": "lozinka",
+        "slug": "lozinka",
+        "about": "i made a website and catppuccinated it :3",
+        "url": "https://refoldingcrystal.github.io"
+    },
+    {
+        "name": "Mayuresh",
+        "slug": "mayu",
+        "about": "shout to jason cameron man...",
+        "url": "https://www.mayuu.me",
+        "owner": "mayuresh2k4@gmail.com"
+    },
+    {
+        "name": "Lair",
+        "slug": "lair",
+        "about": "My web-technologies playground with some self-hosted services",
+        "url": "https://lair.moe",
+        "owner": "risdeveau@lair.moe"
+    },
+    {
+        "name": "ErrorCode0",
+        "slug": "errorcodezero",
+        "about": "ErrorCode0's Personal Website",
+        "url": "https://errorcodezero.dev",
+        "rss": "https://errorcodezero.dev/rss.xml",
+        "owner": "@errorcodezero@mas.to"
+    },
+    {
+        "name": "kirjah",
+        "slug": "kirjah",
+        "about": "kirjah's website.",
+        "url": "https://kirjah.lol",
+        "owner": "kirjah.lol@gmail.com"
+    },
+    {
+        "name": "lem.my",
+        "slug": "lem.my",
+        "about": "Personal website and portfolio.",
+        "url": "https://lem.my",
+        "owner": "hi@lem.my"
+    },
+    {
+        "name": "Chimera's Realm",
+        "slug": "chimera",
+        "about": "A pixel-art portfolio, inspired by jason cameron.",
+        "url": "https://chimera-realm.vercel.app/",
+        "owner": "https://github.com/Chimera418"
+    },
+    {
+        "name": "Plant's Game Dev Vault",
+        "slug": "Plant",
+        "about": "Blogging & Game Dev.",
+        "url": "https://pgdvault.vercel.app/",
+        "owner": "marquizd11@gmail.com"
     }
 ]

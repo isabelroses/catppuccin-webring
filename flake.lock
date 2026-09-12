@@ -1,0 +1,46 @@
+{
+  "nodes": {
+    "extersia": {
+      "inputs": {
+        "nixpkgs": "nixpkgs"
+      },
+      "locked": {
+        "lastModified": 1779847539,
+        "narHash": "sha256-6RyJQKZTBFDjcCMdh29e7k61NUK2sL/l/wFq+P8mNKU=",
+        "owner": "extersia-org",
+        "repo": "pkgs",
+        "rev": "a5961c606ec3770facb2899768229c562c04f429",
+        "type": "github"
+      },
+      "original": {
+        "owner": "extersia-org",
+        "repo": "pkgs",
+        "type": "github"
+      }
+    },
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1779694939,
+        "narHash": "sha256-luOcHMj74mEbDfB9dbcvMlXUF/6oefoKI2xxyZAvyy0=",
+        "rev": "f9d8b65950353691ab56561e7c73d2e1063d810b",
+        "type": "tarball",
+        "url": "https://releases.nixos.org/nixpkgs/nixpkgs-26.11pre1004746.f9d8b6595035/nixexprs.tar.xz?lastModified=1779694939&rev=f9d8b65950353691ab56561e7c73d2e1063d810b"
+      },
+      "original": {
+        "type": "tarball",
+        "url": "https://channels.nixos.org/nixpkgs-unstable/nixexprs.tar.xz"
+      }
+    },
+    "root": {
+      "inputs": {
+        "extersia": "extersia",
+        "nixpkgs": [
+          "extersia",
+          "nixpkgs"
+        ]
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

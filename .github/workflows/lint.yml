@@ -1,4 +1,4 @@
-on: [push, pull_request]
+on: [push, pull_request_target]
 
 jobs:
   lint:
@@ -7,7 +7,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Lint
         run: bash <(curl -s https://raw.githubusercontent.com/CICDToolbox/json-lint/master/pipeline.sh)

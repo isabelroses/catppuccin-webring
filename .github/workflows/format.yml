@@ -13,15 +13,15 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Format files
-        uses: actionsx/prettier@v2
+        uses: actionsx/prettier@v3
         with:
           args: . --write
 
       - name: Commit changes
-        uses: EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@v10
         with:
           message: "style: format code with prettier"
           default_author: github_actions
