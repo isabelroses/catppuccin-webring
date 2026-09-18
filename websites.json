@@ -434,5 +434,13 @@
         "about": "Blogging & Game Dev.",
         "url": "https://pgdvault.vercel.app/",
         "owner": "marquizd11@gmail.com"
+    },
+    {
+        "name": "netcat.systems",
+        "slug": "netcat",
+        "about": "Luna's scrambled braindump",
+        "url": "https://netcat.systems",
+        "rss": "https://netcat.systems/feed.xml",
+        "owner": "luna@netcat.systems"
     }
 ]
