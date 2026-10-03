@@ -442,5 +442,12 @@
         "url": "https://netcat.systems",
         "rss": "https://netcat.systems/feed.xml",
         "owner": "luna@netcat.systems"
+    },
+    {
+        "name": "autpunk space",
+        "slug": "autpunk",
+        "about": "ascii wordarts, little code projects, ramblings",
+        "url": "https://autpunk.space",
+        "owner": "https://bsky.app/profile/spiritomb.bsky.social"
     }
 ]
