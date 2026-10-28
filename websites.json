@@ -449,5 +449,11 @@
         "about": "ascii wordarts, little code projects, ramblings",
         "url": "https://autpunk.space",
         "owner": "https://bsky.app/profile/spiritomb.bsky.social"
+    },
+    {
+        "name": "teodot",
+        "slug": "teodot",
+        "url": "https://teodot759.github.io",
+        "owner": "https://teodot759.github.io/contact"
     }
 ]
